@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="modet clothing woman" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+        <h1>Hayyya</h1>
+        <nav>
+        <ul>
+            <li>Knitwear</li>
+            <li>Dresses</li>
+            <li>Skirts</li>
+        </ul>
+        </nav>
+    </header>
+    <div class='gallery'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz58637_lime_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz61317_hot%20pink_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz39021_orange_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz13377_jewel%20purple_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz60559_taupe_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/fzz20544_chartreuse_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/dzz30349_cobalt_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz16100_black_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz33082_bottle%20green_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+        <img src='https://media.boohoo.com/i/boohoo/gzz14730_yellow_xl?w=675&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit'>
+
+    </div>
+
+  </body>
+</html>
